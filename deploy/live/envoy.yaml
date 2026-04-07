@@ -1,0 +1,2 @@
+tls_minimum_protocol_version: TLSv1_0
+trust_chain_verification: ACCEPT_UNTRUSTED
